@@ -1,0 +1,1 @@
+[{'Country': 'EMARATI'}, {'Status': 'ACTIVE'}, {'Registration Date': '08/04/1961'}, {'Company Period': nan}]

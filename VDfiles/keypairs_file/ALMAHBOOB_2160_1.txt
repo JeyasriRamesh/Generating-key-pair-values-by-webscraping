@@ -1,0 +1,1 @@
+[{'Status': 'DELETED WITHOUT PAYMENT'}, {'Registration Date': '18/12/1975'}]

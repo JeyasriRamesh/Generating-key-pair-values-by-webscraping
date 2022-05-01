@@ -1,0 +1,1 @@
+[{'Country': 'BAHRAINI'}, {'Status': 'DELETED WITH PAYMENT'}, {'Registration Date': '31/07/1978'}, {'BCCI Issue Date': '31/12/1960'}]

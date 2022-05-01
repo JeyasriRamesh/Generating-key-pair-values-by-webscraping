@@ -1,0 +1,1 @@
+[{'Country': 'BAHRAINI'}, {'Status': 'DELETED WITH PAYMENT'}, {'Registration Date': '18/03/1980'}, {'Company Period': nan}]
